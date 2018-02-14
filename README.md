@@ -21,10 +21,12 @@ Saves will go into /SAVES/SNES/ by default.  You can directly place an sd2snes o
 It will use these folders in this order, if found:
 
 /SAVES/SNES/    (default)
-/SPED/SAVE/     (everdrive)
-/sd2snes/saves/ (sd2snes)
 
-The Super Everdrive uses a 32K long save file no matter what, and is padded.  This functionality is retained.  It should be possible to swap your SD card into the unit from your sd2snes or Super Everdrive and the saves will work fine, then it can be put back into said cartridge and it will find the updated saves.
+/SPED/SAVE/     (Super EverDrive)
+
+/sd2snes/saves/ (SD2SNES)
+
+The Super Everdrive uses a 32K long save file no matter what, and is padded.  This functionality is retained.  It should be possible to swap your SD card into the unit from your SD2SNES or Super EverDrive and the saves will work fine, then it can be put back into said cartridge and it will find the updated saves.
 
 It is a good idea to back up your saves before using this firmware.
 

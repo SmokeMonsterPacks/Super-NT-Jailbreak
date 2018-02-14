@@ -62,3 +62,11 @@ it to save your progress.
 ## Changelog
 
 - JB6.4 2018-02-14 Initial release: Happy Valentine's Day :heart:
+
+## Problem Reporting
+
+The custom firmware is not coded by [SmokeMonsterPacks]
+(https://github.com/SmokeMonsterPacks) or [frederic-mahe]
+(https://github.com/frederic-mahe), but please do 
+[report problems](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues) 
+here at Github for support.

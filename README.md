@@ -43,7 +43,8 @@ The Super Everdrive uses a 32-kilobyte long save file no matter what,
 and is padded.  This functionality is retained.  It should be possible
 to swap your SD card into the unit from your SD2SNES or Super
 EverDrive and the saves will work fine, then it can be put back into
-said cartridge and it will find the updated saves.
+said cartridge and it will find the updated saves (with a `.sav` file
+extension, other extensions are not recognized).
 
 It is a good idea to backup your saves before using this firmware.
 

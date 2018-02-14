@@ -30,7 +30,7 @@ The menu hotkey will return to the file menu from the game.
 ## Saves
 
 Saves will go into `/SAVES/SNES/` by default.  You can directly place
-an [SD2SNES](https://krikzz.com/store/home/27-sd2snes.html) or [Super
+an [SD2SNES](https://http://sd2snes.de/) or [Super
 Everdrive](https://krikzz.com/store/home/13-super-everdrive-v2.html)
 SD card in, and it will properly detect this by checking for the
 requisite save game folders, in this order:

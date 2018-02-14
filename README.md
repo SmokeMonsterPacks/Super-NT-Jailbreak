@@ -6,7 +6,7 @@ Custom "Jailbreak" firmware for the Analogue Super NT that allows loading ROMs f
 
 Place the .bin file into the root directory of your SD card. Be sure the card is formatted as FAT32 and that there is only one firmware file in the root directory.
 
-## Loading ROMs
+## Organizing ROMs
 
 Create a folder called /SNES/ on your SD card. Drop all your subfolders and folders of ROMs in here.  The system will default to here,  but if /SNES/ does not exist, it will then default to the root directory of the SD card.  There is a limit to how many files can be in each directory which varies by the length of the filenames.  This equates to around 300-500 files depending on the length of the filenames.
 

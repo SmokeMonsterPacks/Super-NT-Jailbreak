@@ -1,6 +1,6 @@
 # Super-NT-Jailbreak
 
-Custom "jailbreak" firmware for the Analogue Super NT that allows loading ROMs from the SD Card slot.
+Custom "Jailbreak" firmware for the Analogue Super NT that allows loading ROMs from the SD Card slot.
 
 ## Updating Firmware 
 
@@ -28,7 +28,7 @@ It will use these folders in this order, if found:
 
 The Super Everdrive uses a 32K long save file no matter what, and is padded.  This functionality is retained.  It should be possible to swap your SD card into the unit from your SD2SNES or Super EverDrive and the saves will work fine, then it can be put back into said cartridge and it will find the updated saves.
 
-It is a good idea to back up your saves before using this firmware.
+It is a good idea to backup your saves before using this firmware.
 
 When the game is exited back to the menu, it will write the save game automatically to the SD card.  So to save your progress, be sure to return to the file menu before turning the system off if you wish for it to save your progress.
 

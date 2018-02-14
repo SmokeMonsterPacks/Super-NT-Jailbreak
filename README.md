@@ -6,19 +6,19 @@ from the SD Card slot.
 
 ## Updating Firmware 
 
-Place the `snt_firmware_verJB6.4.bin` file into the root directory of
-your SD card. Be sure the card is formatted as
+Place the firmware file `snt_firmware_verJB6.4.bin` into the root
+directory of your SD card. Be sure the card is formatted as
 [FAT32](https://en.wikipedia.org/wiki/FAT32) and that there is only
 one firmware file in the root directory.
 
 ## Organizing ROMs
 
-Create a folder called `SNES` at the root of your SD card. Drop all your
-subfolders and folders of ROMs in here.  The system will default to
-here, but if `/SNES/` does not exist, it will then default to the root
-directory of the SD card.  There is a limit to how many files can be
-in each directory which varies by the length of the filenames.  This
-equates to around 300-500 files depending on the length of the
+Create a folder called `SNES` at the root of your SD card. Drop all
+your folders and subfolders of ROMs in here.  The system will default
+to here, but if `/SNES/` does not exist, it will then default to the
+root directory of the SD card.  There is a limit to how many files can
+be in each directory which varies by the length of the filenames.
+This equates to around 300-500 files depending on the length of the
 filenames.
 
 ## Running ROMs

@@ -12,7 +12,7 @@ and that there is only one firmware file in the root directory.
 
 ## Organizing ROMs
 
-Create a folder called `/SNES/` on your SD card. Drop all your
+Create a folder called `SNES` at the root of your SD card. Drop all your
 subfolders and folders of ROMs in here.  The system will default to
 here, but if `/SNES/` does not exist, it will then default to the root
 directory of the SD card.  There is a limit to how many files can be
@@ -32,9 +32,7 @@ Saves will go into `/SAVES/SNES/` by default.  You can directly place
 an [SD2SNES](https://krikzz.com/store/home/27-sd2snes.html) or [Super
 Everdrive](https://krikzz.com/store/home/13-super-everdrive-v2.html)
 SD card in, and it will properly detect this by checking for the
-requisite save game folders.
-
-It will use these folders in this order, if found:
+requisite save game folders, in this order:
 
 - `/SAVES/SNES/` (default)
 - `/SPED/SAVE/` (Super EverDrive)

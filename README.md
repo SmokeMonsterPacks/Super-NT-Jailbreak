@@ -65,8 +65,5 @@ it to save your progress.
 
 ## Problem Reporting
 
-The custom firmware is not coded by [SmokeMonsterPacks]
-(https://github.com/SmokeMonsterPacks) or [frederic-mahe]
-(https://github.com/frederic-mahe), but please do 
-[report problems](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues) 
-here at Github for support.
+The custom firmware is not coded by SmokeMonsterPacks or frederic-mahe,
+but please do report problems here at Github for support.

@@ -9,7 +9,9 @@ from the SD Card slot.
 Place the firmware file `snt_firmware_verJB6.4.bin` into the root
 directory of your SD card. Be sure the card is formatted as
 [FAT32](https://en.wikipedia.org/wiki/FAT32) and that there is only
-one firmware file in the root directory.
+one firmware file in the root directory. When flashing, the console LED
+should turn red, and then load to the main menu when complete. This
+process may take a few minutes to finish.
 
 ## Organizing ROMs
 

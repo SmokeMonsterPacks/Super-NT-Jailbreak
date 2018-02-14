@@ -6,9 +6,10 @@ from the SD Card slot.
 
 ## Updating Firmware 
 
-Place the `.bin` file into the root directory of your SD card. Be sure
-the card is formatted as [FAT32](https://en.wikipedia.org/wiki/FAT32)
-and that there is only one firmware file in the root directory.
+Place the `snt_firmware_verJB6.4.bin` file into the root directory of
+your SD card. Be sure the card is formatted as
+[FAT32](https://en.wikipedia.org/wiki/FAT32) and that there is only
+one firmware file in the root directory.
 
 ## Organizing ROMs
 

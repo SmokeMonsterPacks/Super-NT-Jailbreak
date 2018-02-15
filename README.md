@@ -17,7 +17,7 @@ firmware will be flashed to the console.
 
 The console LED will turn red and flicker while the firmware is flashed.
 This process may take a few minutes.  The main menu will load when it 
-finishes.  Delete the fimrware file from your SD card after flashing.
+finishes.  Delete the firmware file from your SD card after flashing.
 
 ## Organizing ROMs
 

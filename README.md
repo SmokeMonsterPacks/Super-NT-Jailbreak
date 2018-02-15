@@ -22,12 +22,15 @@ finishes.  Delete the firmware file from your SD card after flashing.
 
 ## Organizing ROMs
 
-Create a folder called `SNES` at the root of your SD card.  Drop all
-your folders and subfolders of ROMs in here.  The system will default
-to here, but if `/SNES/` does not exist, it will then default to the
-root directory of the SD card.  There is a limit to how many files can
-be in each directory which varies by the length of the filenames.
-This equates to around 300-500 files depending on the length of the
+Create a folder called `SNES` at the root of your SD card, and drop
+your folders and subfolders of ROMs inside (see [SmokeMonster's
+database](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database)
+for a curated [list of valid SNES
+ROMs](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database/raw/master/EverDrive%20Pack%20SMDBs/Super%20EverDrive%20%26%20SD2SNES%20SMDB.txt)).
+The system will search for ROMs in the `/SNES/` folder first, or the
+root directory of the SD card if there is no `/SNES/` folder.  The
+maximum number of files (ROMs and subfolders) that can be placed in a
+given folder is around 300-500, depending on the length of the
 filenames.
 
 ## Running ROMs

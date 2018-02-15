@@ -68,9 +68,7 @@ it to save your progress.
 
 ## Changelog
 
-- JB6.4 2018-02-14 Initial release: Happy Valentine's Day :heart:
-
-snt_firmware_verJB6.4.bin SHA-1 Checksum: 835a9c3ccba3ef75a3f6c3069d0092a11a809619
+- JB6.4 2018-02-14 Initial release: Happy Valentine's Day :heart: (md5 firmware: d9dd571f412a1abd5fa5614885b28249)
 
 ## Problem Reporting
 

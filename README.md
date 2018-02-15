@@ -68,7 +68,7 @@ it to save your progress.
 
 ## Changelog
 
-- JB6.4 2018-02-14 Initial release: Happy Valentine's Day :heart: (md5 firmware: d9dd571f412a1abd5fa5614885b28249)
+- JB6.4 2018-02-14 Initial release: Happy Valentine's Day :heart:
 
 ## Problem Reporting
 

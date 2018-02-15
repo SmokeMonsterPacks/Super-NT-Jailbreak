@@ -13,9 +13,9 @@ Windows, you must use a tool for cards larger than 32GB, such as
 Place the firmware file `snt_firmware_verJB6.4.bin` into the root
 directory of your SD card.  Be sure that there is only one firmware 
 file there.  Insert the card into your Super NT and power it on. The 
-firmware will be flashed to the console. 
+firmware will be flashed to the console.
 
-The console LED will turn red and flicker while the firmware is flashed.  
+The console LED will turn red and flicker while the firmware is flashed.
 This process may take a few minutes.  The main menu will load when it 
 finishes.  Delete the fimrware file from your SD card after flashing.
 
@@ -25,7 +25,7 @@ Create a folder called `SNES` at the root of your SD card.  Drop all
 your folders and subfolders of ROMs in here.  The system will default
 to here, but if `/SNES/` does not exist, it will then default to the
 root directory of the SD card.  There is a limit to how many files can
-be in each directory which varies by the length of the filenames.  
+be in each directory which varies by the length of the filenames.
 This equates to around 300-500 files depending on the length of the
 filenames.
 

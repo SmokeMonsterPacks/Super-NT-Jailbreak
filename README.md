@@ -6,20 +6,26 @@ from the SD Card slot.
 
 ## Updating Firmware 
 
+Format an SD card as [FAT32](https://en.wikipedia.org/wiki/FAT32). In
+Windows, you must use a tool for cards larger than 32GB, such as
+[fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
+
 Place the firmware file `snt_firmware_verJB6.4.bin` into the root
-directory of your SD card. Be sure the card is formatted as
-[FAT32](https://en.wikipedia.org/wiki/FAT32) and that there is only
-one firmware file in the root directory. When flashing, the console LED
-should turn red, and then load to the main menu when complete. This
-process may take a few minutes to finish.
+directory of your SD card.  Be sure that there is only one firmware 
+file there.  Insert the card into your Super NT and power it on. The 
+firmware will be flashed to the console. 
+
+The console LED will turn red and flicker while the firmware is flashed.  
+This process may take a few minutes.  The main menu will load when it 
+finishes.  Delete the fimrware file from your SD card after flashing.
 
 ## Organizing ROMs
 
-Create a folder called `SNES` at the root of your SD card. Drop all
+Create a folder called `SNES` at the root of your SD card.  Drop all
 your folders and subfolders of ROMs in here.  The system will default
 to here, but if `/SNES/` does not exist, it will then default to the
 root directory of the SD card.  There is a limit to how many files can
-be in each directory which varies by the length of the filenames.
+be in each directory which varies by the length of the filenames.  
 This equates to around 300-500 files depending on the length of the
 filenames.
 
@@ -67,5 +73,6 @@ snt_firmware_verJB6.4.bin SHA-1 Checksum: 835a9c3ccba3ef75a3f6c3069d0092a11a8096
 
 ## Problem Reporting
 
-The custom firmware is not coded by SmokeMonsterPacks or frederic-mahe,
-but please do report problems here at Github for support.
+The custom firmware is not coded by [SmokeMonsterPacks](https://github.com/SmokeMonsterPacks)
+or [frederic-mahe](https://github.com/frederic-mahe), but please 
+do report problems here at Github for support.

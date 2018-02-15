@@ -10,10 +10,11 @@ Format an SD card as [FAT32](https://en.wikipedia.org/wiki/FAT32). In
 Windows, you must use a tool for cards larger than 32GB, such as
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
-Place the firmware file `snt_firmware_verJB6.4.bin` into the root
-directory of your SD card.  Be sure that there is only one firmware 
-file there.  Insert the card into your Super NT and power it on. The 
-firmware will be flashed to the console.
+Place the firmware file
+[snt_firmware_verJB6.4.bin](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.4/snt_firmware_verJB6.4.bin)
+into the root directory of your SD card.  Be sure that there is only
+one firmware file there.  Insert the card into your Super NT and power
+it on. The firmware will be flashed to the console.
 
 The console LED will turn red and flicker while the firmware is flashed.
 This process may take a few minutes.  The main menu will load when it 

@@ -10,6 +10,6 @@ On Mac and Linux, use command line tools to get the hash values of your ROM (for
 
 If applicable, check against byuu's [SNES dump database](https://preservation.byuu.org/) and indicate if the bug occurs when using an original cartridge as well.
 
-## firmware version, SD card model
+## firmware version and SD card model
 
-jailbreak firmware 6.4
+Jailbreak firmware v6.4

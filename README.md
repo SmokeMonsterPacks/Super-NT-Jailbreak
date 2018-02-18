@@ -6,9 +6,8 @@ from the SD Card slot.
 
 ## Updating Firmware 
 
-Format a 2GB (or larger) SD card as
-[FAT32](https://en.wikipedia.org/wiki/FAT32). In Windows, you must use
-a tool for cards larger than 32GB, such as
+Format an SD card as [FAT32](https://en.wikipedia.org/wiki/FAT32). In
+Windows, you must use a tool for cards larger than 32GB, such as
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
 Place the firmware file

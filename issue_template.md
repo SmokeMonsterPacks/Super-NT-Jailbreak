@@ -12,4 +12,5 @@ If applicable, check against byuu's [SNES dump database](https://preservation.by
 
 ## firmware version and SD card model
 
-Jailbreak firmware v6.4
+- Jailbreak firmware v6.4
+- relevant Super Nt settings

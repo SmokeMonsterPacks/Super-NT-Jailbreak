@@ -1,5 +1,9 @@
 (template targeting issues with ROMs, feel free to adapt the structure below to your actual problem)
 
+(Do not submit bugs if you are using any means of powering your Super Nt other than the OEM power supply. Only use the original PSU and USB cable when bug testing)
+
+(Please be ready to retest your issue if the firmware is updated)
+
 ## Expected behavior and actual behavior
 
 ## Steps to reproduce the problem

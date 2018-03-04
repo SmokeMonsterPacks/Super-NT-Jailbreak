@@ -13,7 +13,7 @@ supported). In Windows, you must use a tool for cards larger than
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
 Place the firmware file
-[snt_firmware_verJB6.4.bin](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.4/snt_firmware_verJB6.4.bin)
+[snt_firmware_verJB6.5.bin](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.5/snt_firmware_verJB6.5.bin)
 into the root directory of your SD card.  Be sure that there is only
 one firmware file there.  Insert the card into your Super NT and power
 it on. The firmware will be flashed to the console.
@@ -73,6 +73,16 @@ it to save your progress.
 
 ## Changelog
 
+- JB6.5 2018-03-04:
+  - adds a new "Save?" dialog box,
+  - fixes DMA-related bugs, which should solve most random crashes,
+  - fixes both SRAM bugs (firmware 6.4 only saved once and had a nasty
+    corruption bug). Please test it again so we can be sure the save
+    functionality works as expected. Any save games made on the
+    jailbreak firmware 6.4 should be considered as potentially
+    corrupted and must be discarded,
+  - fixes glitch with some games disabling the "return to menu"
+    shortcut,
 - JB6.4 2018-02-14 Initial release: Happy Valentine's Day :heart:
 
 ## Problem Reporting

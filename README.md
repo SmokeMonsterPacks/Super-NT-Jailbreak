@@ -74,8 +74,9 @@ it to save your progress.
 ## Changelog
 
 - JB6.5 2018-03-04:
+  - includes all the fixes of the official firmware v4.4, which should
+    solve most DMA-related random crashes,
   - adds a new "Save?" dialog box,
-  - fixes DMA-related bugs, which should solve most random crashes,
   - fixes both SRAM bugs (firmware 6.4 only saved once and had a nasty
     corruption bug). Please test it again so we can be sure the save
     functionality works as expected. Any save games made on the

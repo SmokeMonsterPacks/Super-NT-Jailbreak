@@ -73,21 +73,20 @@ it to save your progress.
 
 ## Changelog
 
-- JB6.5 2018-03-04:
+- [JB6.5](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.5/snt_firmware_verJB6.5.bin) 2018-03-04:
   - includes all fixes from official firmware v4.4, which should
     solve most DMA-related random crashes
-  - "menu bounce" option reinstated  
-  - adds a new "Save?" dialog box
+  - adds a `menu bounce` option (reinstated)
+  - adds a new `Save?` dialog box
   - fixes both SRAM bugs (firmware 6.4 only saved once and had a nasty
     corruption bug). Please test it again so we can be sure the save
-    functionality works as expected. Any save games made on the
-    jailbreak firmware 6.4 should be considered as potentially
-    corrupted and must be discarded
-  - fixes glitch with some games disabling the "return to menu"
+    functionality works as expected. Any save made on the jailbreak
+    firmware 6.4 should be considered as potentially corrupted and
+    must be discarded
+  - fixes glitch with some games disabling the `return to menu`
     shortcut
     
-MD5: c50b79ec9c6b0350768b02428c9e7b2d
-- JB6.4 2018-02-14 Initial release: Happy Valentine's Day :heart:
+- [JB6.4](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.4/snt_firmware_verJB6.4.bin) 2018-02-14 Initial release: Happy Valentine's Day :heart:
 
 ## Problem Reporting
 

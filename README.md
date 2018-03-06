@@ -88,8 +88,13 @@ it to save your progress.
     
 - [JB6.4](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.4/snt_firmware_verJB6.4.bin) 2018-02-14 Initial release: Happy Valentine's Day :heart:
 
-## Problem Reporting
+## Problem Reporting and Community chat
 
-The custom firmware is not coded by [SmokeMonsterPacks](https://github.com/SmokeMonsterPacks)
-or [frederic-mahe](https://github.com/frederic-mahe), but please 
-do report problems here at Github for support.
+The custom firmware is not coded by
+[SmokeMonsterPacks](https://github.com/SmokeMonsterPacks) or
+[frederic-mahe](https://github.com/frederic-mahe), but please do
+report problems here at Github for support. Priority will be given to
+jailbreak-specific problems (using ROMs through the SD card slot
+rather than through the cartridge slot). You can join the [discord
+server](https://discord.gg/EX57xnF) if you want to chat with the Super
+Nt community.

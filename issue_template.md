@@ -4,6 +4,8 @@
 
 (Please be ready to retest your issue if the firmware is updated)
 
+(Only submit reports for the latest Jailbreak or Official Firmware)
+
 ## Expected behavior and actual behavior
 
 ## Steps to reproduce the problem
@@ -13,8 +15,6 @@
 On Mac and Linux, use command line tools to get the hash values of your ROM (for example: `sha1sum`, `md5sum`). On Windows, you can use the [FCIV](https://support.microsoft.com/en-us/help/889768/how-to-compute-the-md5-or-sha-1-cryptographic-hash-values-for-a-file) utility.
 
 If applicable, check against byuu's [SNES dump database](https://preservation.byuu.org/) and indicate if the bug occurs when using an original cartridge as well.
-
-Only test bugs via the latest Jailbreak or Official Firmware.
 
 ## firmware version and SD card model
 

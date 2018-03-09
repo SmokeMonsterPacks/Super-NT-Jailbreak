@@ -21,7 +21,7 @@ take a few minutes.
 
 When flashing the LED will turn red and flicker, followed by a
 considerable pause.  The main menu will load when it has finished
-flashing.  Do not powr off until the menu loads.  Delete the
+flashing.  Do not power off until the menu loads.  Delete the
 firmware file from your card after flashing.
 
 The SNT is protected from bricking as a result of firmware updates,

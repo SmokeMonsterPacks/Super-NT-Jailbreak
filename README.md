@@ -2,7 +2,7 @@
 
 Custom "*Jailbreak*" firmware for the [Analogue Super
 NT](https://www.analogue.co/pages/super-nt/) that allows loading ROMs
-from the SD Card slot.
+from the SD Card slot and an expanded featureset. 
 
 ## Updating Firmware 
 
@@ -62,10 +62,9 @@ extension, other extensions are not recognized).
 
 It is a good idea to backup your saves before using this firmware.
 
-When the game is exited back to the menu, it will write the save game
-automatically to the SD card.  So to save your progress, be sure to
-return to the file menu before turning the system off if you wish for
-it to save your progress.
+When the game is exited back to the menu, it will prompt you to save.  
+So to save your progress, be sure to return to the file menu before 
+turning the system off.
 
 ## Cores Supported
 

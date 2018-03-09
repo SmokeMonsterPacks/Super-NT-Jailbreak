@@ -15,12 +15,17 @@ supported). In Windows, you must use a tool for cards larger than
 Place the firmware file
 [snt_firmware_verJB6.5.bin](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.5/snt_firmware_verJB6.5.bin)
 into the root directory of your SD card.  Be sure that there is only
-one firmware file there.  Insert the card into your Super NT and power
-it on. The firmware will be flashed to the console.
+one firmware file there.  Insert the card into your Super NT and power 
+on. The firmware will be flashed to the console. This process may 
+take a few minutes.
 
-The console LED will turn red and flicker while the firmware is flashed.
-This process may take a few minutes.  The main menu will load when it 
-finishes.  Delete the firmware file from your SD card after flashing.
+The console LED will turn red and flicker while the firmware is flashed.  
+The main menu will load when it has finished flashing. Until the menu 
+loads, do not power off.  Delete the firmware file from your card 
+after flashing.
+
+The SNT is protected from ever bricking as a result of firmware updates, 
+but please still follow the above precautions to be safe.
 
 ## Organizing ROMs
 

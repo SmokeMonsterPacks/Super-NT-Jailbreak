@@ -19,10 +19,10 @@ one firmware file there.  Insert the card into your Super NT and power
 on. The firmware will be flashed to the console. This process may
 take a few minutes.
 
-When flashing the LED will turn red and flicker, followed by a
-considerable pause and HDMI signal blackout.  Do not power off.
-The main menu will boot when it has finished. Delete the firmware
-file from your card after flashing.
+While the firmware is flashing the LED will turn red and flicker,
+followed by a considerable pause and HDMI signal blackout.  Do not
+power off.  The main menu will boot when it has finished. Delete the
+firmware file from your card after flashing.
 
 The SNT is protected from bricking as a result of firmware updates,
 but please still follow the above precautions to be safe.

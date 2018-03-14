@@ -68,8 +68,7 @@ extension, other extensions are not recognized).
 It is a good idea to backup your saves before using this firmware.
 
 When the game is exited back to the menu, it will prompt you to save.  
-So to save your progress, be sure to return to the file menu before 
-turning the system off.
+Return to the file menu before turning the system off to save your progress.
 
 ## Cores Supported
 
@@ -102,3 +101,10 @@ jailbreak-specific problems (using ROMs through the SD card slot
 rather than through the cartridge slot). You can join the [discord
 server](https://discord.gg/EX57xnF) if you want to chat with the Super
 Nt community.
+
+## Known issues
+
+- game-specific [bugs](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues)
+- hotkey problems with 8bitdo receiver [#12](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/51)
+- using `BACK` to exit SD browser while in-game breaks functionality of select button [#6](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/6)
+- using `BACK` to exit SD browser while in-game breaks save function [#48](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/48)

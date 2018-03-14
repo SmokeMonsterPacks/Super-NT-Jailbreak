@@ -70,10 +70,6 @@ It is a good idea to backup your saves before using this firmware.
 When the game is exited back to the menu, it will prompt you to save.  
 Return to the file menu before turning the system off to save your progress.
 
-## Cores Supported
-
-`SNES/SFC`
-
 ## Changelog
 
 - [JB6.5](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.5/snt_firmware_verJB6.5.bin) 2018-03-04:
@@ -91,7 +87,18 @@ Return to the file menu before turning the system off to save your progress.
     
 - [JB6.4](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.4/snt_firmware_verJB6.4.bin) 2018-02-14 Initial release: Happy Valentine's Day :heart:
 
-## Problem Reporting and Community chat
+## Known Issues
+
+- game-specific [bugs](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+glitches)
+- hotkey problems with 8bitdo receiver [#12](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/51)
+- using `BACK` to exit SD browser while in-game breaks functionality of select button [#6](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/6)
+- using `BACK` to exit SD browser while in-game breaks save function [#48](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/48)
+
+## Cores Supported
+
+`SNES/SFC`
+
+## Problem Reporting and Community Chat
 
 The custom firmware is not coded by
 [SmokeMonsterPacks](https://github.com/SmokeMonsterPacks) or
@@ -101,10 +108,3 @@ jailbreak-specific problems (using ROMs through the SD card slot
 rather than through the cartridge slot). You can join the [discord
 server](https://discord.gg/EX57xnF) if you want to chat with the Super
 Nt community.
-
-## Known issues
-
-- game-specific [bugs](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues)
-- hotkey problems with 8bitdo receiver [#12](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/51)
-- using `BACK` to exit SD browser while in-game breaks functionality of select button [#6](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/6)
-- using `BACK` to exit SD browser while in-game breaks save function [#48](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/48)

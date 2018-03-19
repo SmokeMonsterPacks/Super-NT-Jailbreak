@@ -25,7 +25,7 @@ power off.  The main menu will boot when it has finished. Delete the
 firmware file from your card after flashing.
 
 The SNT is protected from bricking as a result of firmware updates,
-but please still follow the above precautions to be safe.
+but please still follow the above precautions to be safe. 
 
 ## Organizing ROMs
 
@@ -65,10 +65,12 @@ EverDrive and the saves will work fine, then it can be put back into
 said cartridge and it will find the updated saves (with a `.sav` file
 extension, other extensions are not recognized).
 
-It is a good idea to backup your saves before using this firmware.
+NEVER insert or remove cartridges while your SNT is powered on. Doing so
+risks damaging the console and/or losing saves. It is good practice to 
+backup saves before updating firmware.
 
-When the game is exited back to the menu, it will prompt you to save.  
-Return to the file menu before turning the system off to save your progress.
+When a game is exited to the menu, it will prompt you to save. Return to
+the file menu and save your progress before powering down.
 
 ## Changelog
 

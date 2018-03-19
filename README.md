@@ -66,7 +66,7 @@ said cartridge and it will find the updated saves (with a `.sav` file
 extension, other extensions are not recognized).
 
 NEVER insert or remove cartridges while your SNT is powered on. Doing so
-risks damaging the console and/or losing saves. It is good practice to 
+may risk damaging the console and/or losing saves. It is good practice to 
 backup saves before updating firmware.
 
 When a game is exited to the menu, it will prompt you to save. Return to
@@ -111,3 +111,6 @@ jailbreak-specific problems (using ROMs through the SD card slot
 rather than through the cartridge slot). You can join the [discord
 server](https://discord.gg/EX57xnF) if you want to chat with the Super
 Nt community.
+
+Use at your own discretion. We are not responsible for any damage 
+or data loss caused by custom firmware installation or use.

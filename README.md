@@ -74,12 +74,12 @@ the file menu and save your progress before powering down.
 
 ## CopySNES
 
-CopySNES backs up (AKA "dumps") cartridge ROMs and save RAM to the SD card. 
+[CopySNES](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.6/CopySNES.Instructions.txt)
+backs up (AKA "dumps") cartridge ROMs and save RAM to the SD card.
 <details>
   <summary>Click to expand full CopySNES instructions</summary>
-CopySNES is designed to be an easy to use way to back up cartridge ROMs and save RAM
-data.  Most types of cartridges are supported, and if it isn't specifically supported
-or for some reason the cartridge header is bad, the settings can be changed.
+<BR>
+CopySNES is designed to be an easy to use way to back up cartridge ROMs and save RAM data. Most types of cartridges are supported, and if it isn't specifically supported or for some reason the cartridge header is bad, the settings can be changed.
 
 How to use it
 
@@ -88,50 +88,33 @@ How to use it
 * Power the system on
 * Select "CopySNES" on the tools menu
 
-At this point, CopySNES will query the cartridge and grab the header and attempt to
-detect what kind of cartridge it is.
+At this point, CopySNES will query the cartridge and grab the header and attempt to detect what kind of cartridge it is.
 
 You have two options at this point:
 
-1) hit "enter" to accept the settings and proceed to saving.  (note: editing the name
-will happen during the save step). (skip to "filename entry" below)
+1) hit "enter" to accept the settings and proceed to saving.  (note: editing the name will happen during the save step). (skip to "filename entry" below)
 
-2) hit "start" to edit the detected settings (note: editing the name will happen
-during the save step.)
+2) hit "start" to edit the detected settings (note: editing the name will happen during the save step.)
 
-If you wish to edit the settings, use up and down to select one of the settings, then
-use left and right to adjust it.  You can select between 32K and 16Mbytes of ROM to dump,
-and between 0K (i.e. none) and 32K of RAM.   Finally, you can select the type of
-mapper it is, i.e. LOROM, HIROM, EXHIROM, or EXLOROM.  There is also a "FLAT" setting
-which will let you dump the entire SNES cartridge space if desired.  FLAT starts at
-address 00:0000 and will dump the specified amount of memory.   
+If you wish to edit the settings, use up and down to select one of the settings, then use left and right to adjust it.  You can select between 32K and 16Mbytes of ROM to dump, and between 0K (i.e. none) and 32K of RAM. 
 
-While you can dump say, 8Mbyte of LOROM or HIROM, doing so most likely won't be very
-useful.  
+Finally, you can select the type of mapper it is, i.e. LOROM, HIROM, EXHIROM, or EXLOROM. There is also a "FLAT" setting which will let you dump the entire SNES cartridge space if desired. FLAT starts at address 00:0000 and will dump the specified amount of memory.   
 
-This "manual" mode is useful when dumping things that do not have a valid or any header
-such as the Game Genie BIOS (it reports 0K of ROM and is actually 64K) or the Sufami
-Turbo (again, it reports 0K of ROM even though it's really 1MByte).
+While you can dump say, 8Mbyte of LOROM or HIROM, doing so most likely won't be very useful.  
+
+This "manual" mode is useful when dumping things that do not have a valid or any header such as the Game Genie BIOS (it reports 0K of ROM and is actually 64K) or the Sufami Turbo (again, it reports 0K of ROM even though it's really 1MByte).
 
 When you are done adjusting the settings, and are ready to dump, hit "select".
 
 Filename entry:
 
-At this point the filename can be edited.  It will directly copy the ROM header name
-in here.  For some Japanese titles, there may be no valid ASCII in the header (or if
-there's no header at all) so any invalid characters for a filename are replaced with spaces.
-If there's no name at all, it will default to "GAME".  Use up/down to change the character's
-value and left/right to select a character.  Press "enter" to accept the filename and begin
-the dumping process.
+At this point the filename can be edited.  It will directly copy the ROM header name in here. For some Japanese titles, there may be no valid ASCII in the header (or if there's no header at all) so any invalid characters for a filename are replaced with spaces. If there's no name at all, it will default to "GAME".  Use up/down to change the character's value and left/right to select a character. Press "enter" to accept the filename and begin the dumping process.
 
-The game's actual size will be determined at this point (i.e. a 2MByte game reported in
-the header might only be 1.5Mbytes, so this will be detected now).
+The game's actual size will be determined at this point (i.e. a 2MByte game reported in the header might only be 1.5Mbytes, so this will be detected now).
 
 Finally, the ROM and RAM are dumped to the SD card.
 
-Now that the dump is complete, you are returned to the tools menu.  The system can be
-powered off and a new cartridge inserted to dump, and so on until all the carts
-are dumped that you wish to dump.
+Now that the dump is complete, you are returned to the tools menu. The system can be powered off and a new cartridge inserted to dump, and so on until all the carts are dumped that you wish to dump.
 
 The following things have been tested:
 
@@ -141,9 +124,7 @@ The following things have been tested:
 * SDD-1   (ROM + RAM)
 * SA-1    (ROM + RAM)
 * GSU-1/2 (ROM + RAM)
-note: For SuperFX (GSU), the RAM is always dumped as 64K.  This is because games such as
-Yoshi's Island have RAM, but the headers for all the games show 0K of RAM.  This 'larger'
-RAM will work with the major emulators, and can be trimmed down later if needed.  
+note: For SuperFX (GSU), the RAM is always dumped as 64K.  This is because games such as Yoshi's Island have RAM, but the headers for all the games show 0K of RAM.  This 'larger' RAM will work with the major emulators, and can be trimmed down later if needed.  
 * CX4     (ROM)
 * DSP1-4  (ROM + RAM)
 * S-RTC   (ROM,  RAM is dumped but it is unknown if it works)
@@ -153,8 +134,7 @@ RAM will work with the major emulators, and can be trimmed down later if needed.
 * OBC-1   (ROM + RAM)
 * SPC7110 (ROM + RAM, but RAM has not been verified to work)
 
-Note: Testing with no$sns, it will not use the saves on certain games such as Chrono
-Trigger.  I don't know why, the saves are good and work on the Super NT itself.
+Note: Testing with no$sns, it will not use the saves on certain games such as Chrono Trigger. I don't know why, the saves are good and work on the Super NT itself.
 </details>
 
 ## Changelog

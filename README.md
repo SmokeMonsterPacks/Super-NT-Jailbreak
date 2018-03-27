@@ -81,11 +81,12 @@ the file menu and save your progress before powering down.
     file for full instructions.
   - Star Ocean 96mbit works now.
   - Changed menu operation so that if you enter the settings menu in the
-    file browser, it can be exited back to the file browser by hitting select (or backing all the way out using the back button).
+    file browser, it can be exited back to the file browser by hitting select 
+    (or backing all the way out using the back button).
   - Changed file browser operation so that if you attempt to back out of it, 
     you get warned that the running game will be ended and you cannot save any more.
   - In JB mode, `tools` menu appears on the main menu which has copysnes and cheat codes.
-  - `Cheat codes` in moved into the file browser settings menu.
+  - `Cheat codes` is moved into the file browser settings menu.
 
 - [JB6.5](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.5/snt_firmware_verJB6.5.bin) 2018-03-04:
   - includes all fixes from official firmware v4.4, which should

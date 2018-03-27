@@ -193,8 +193,6 @@ Trigger.  I don't know why, the saves are good and work on the Super NT itself.
 - game-specific [bugs](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+glitches)
 - hotkey problems with 8bitdo receiver [#12](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/51)
 - hq2-4x scaler settings slightly change the color pallet [#78](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/78)
-- using `BACK` to exit SD browser while in-game breaks functionality of select button [#6](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/6)
-- using `BACK` to exit SD browser while in-game breaks save function [#48](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/48)
 
 ## Cores Supported
 

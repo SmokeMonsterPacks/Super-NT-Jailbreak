@@ -139,19 +139,23 @@ Note: Testing with no$sns, it will not use the saves on certain games such as Ch
 
 ## Changelog
 - [JB6.6](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.6/snt_firmware_verJB6.6.bin) 2018-03-27:
-  - All official v4.5 fixes plus:
-  - Added CopySNES. Lets you dump carts/save RAM to the SD card. Files 
-    are placed into /COPYSNES/. The directory is created if it does not
-    exist. See the [text](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.6/CopySNES.Instructions.txt)
+  - includes all fixes from official firmware v4.5,
+  - fixed: *Star Ocean* 96mbit works now.
+  - changed menu operation so that if you enter the settings menu in
+    the file browser, it can be exited back to the file browser by
+    hitting select (or backing all the way out using the back button).
+  - changed file browser operation so that if you attempt to back out
+    of it, you get warned that the running game will be ended and you
+    cannot save any more.
+  - changed: `Cheat codes` is moved into the file browser settings
+    menu.
+  - added CopySNES. Lets you dump carts/save RAM to the SD card. Files
+    are placed into `/COPYSNES/`. The directory is created if it does
+    not exist. See the
+    [text](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.6/CopySNES.Instructions.txt)
     file for full instructions.
-  - Star Ocean 96mbit works now.
-  - Changed menu operation so that if you enter the settings menu in the
-    file browser, it can be exited back to the file browser by hitting select 
-    (or backing all the way out using the back button).
-  - Changed file browser operation so that if you attempt to back out of it, 
-    you get warned that the running game will be ended and you cannot save any more.
-  - In JB mode, `tools` menu appears on the main menu which has copysnes and cheat codes.
-  - `Cheat codes` is moved into the file browser settings menu.
+  - added: in jailbreak mode, `tools` menu appears on the main menu
+    which has CopySNES and cheat codes.
 
 - [JB6.5](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.5/snt_firmware_verJB6.5.bin) 2018-03-04:
   - includes all fixes from official firmware v4.4, which should

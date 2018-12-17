@@ -1,8 +1,9 @@
 # Super NT Jailbreak
 
 Custom "*Jailbreak*" firmware for the [Analogue Super
-NT](https://www.analogue.co/pages/super-nt/) that allows loading ROMs
-from the SD Card slot and an expanded featureset. 
+NT](https://www.analogue.co/pages/super-nt/) (regular and *ghostly*
+models) that allows loading ROMs from the SD Card slot and an expanded
+featureset.
 
 ## Updating Firmware 
 

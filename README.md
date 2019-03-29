@@ -1,7 +1,7 @@
-# Super NT Jailbreak
+# Super Nt Jailbreak
 
 Custom "*Jailbreak*" firmware for the [Analogue Super
-NT](https://www.analogue.co/pages/super-nt/) (regular and *ghostly*
+Nt](https://www.analogue.co/pages/super-nt/) (regular and *ghostly*
 models) that allows loading ROMs from the SD Card slot and an expanded
 featureset.
 
@@ -16,7 +16,7 @@ supported). In Windows, you must use a tool for cards larger than
 Place the firmware file
 [snt_firmware_verJB6.6.bin](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.6/snt_firmware_verJB6.6.bin)
 into the root directory of your SD card.  Be sure that there is only
-one firmware file there.  Insert the card into your Super NT and power
+one firmware file there.  Insert the card into your Super Nt and power
 on. The firmware will be flashed to the console. This process may
 take a few minutes.
 
@@ -25,8 +25,8 @@ followed by a considerable pause and HDMI signal blackout.  Do not
 power off.  The main menu will boot when it has finished. Delete the
 firmware file from your card after flashing.
 
-The SNT is protected from bricking as a result of firmware updates,
-but please still follow the above precautions to be safe. 
+The Super Nt is protected from bricking as a result of firmware
+updates, but please still follow the above precautions to be safe.
 
 ## Organizing ROMs
 
@@ -66,9 +66,9 @@ EverDrive and the saves will work fine, then it can be put back into
 said cartridge and it will find the updated saves (with a `.sav` file
 extension, other extensions are not recognized).
 
-NEVER insert or remove cartridges while your SNT is powered on. Doing so
-may risk damaging the console and/or losing saves. It is good practice to 
-backup saves before updating firmware.
+NEVER insert or remove cartridges while your Super Nt is powered
+on. Doing so may risk damaging the console and/or losing saves. It is
+good practice to backup saves before updating firmware.
 
 When a game is exited to the menu, it will prompt you to save. Return to
 the file menu and save your progress before powering down.
@@ -214,9 +214,9 @@ on the Super NT itself.
 
 ## Known Issues
 
-- [special-chip games](https://en.wikipedia.org/wiki/List_of_Super_NES_enhancement_chips#List_of_Super_NES_games_that_use_enhancement_chips) are not supported
-- game-specific [bugs](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+glitches)
-- hotkey problems with 8bitdo receiver [#12](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/51)
+- [special-chip games](https://en.wikipedia.org/wiki/List_of_Super_NES_enhancement_chips#List_of_Super_NES_games_that_use_enhancement_chips) are not supported,
+- game-specific [bugs](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+glitches),
+- hotkey problems with 8bitdo receiver [#12](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/51),
 - hq2-4x scaler settings slightly change the color pallet [#78](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/issues/78)
 
 ## Cores Supported

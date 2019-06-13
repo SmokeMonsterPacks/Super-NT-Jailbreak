@@ -231,7 +231,7 @@ The custom firmware is not coded by
 report problems here at Github for support. Priority will be given to
 jailbreak-specific problems (using ROMs through the SD card slot
 rather than through the cartridge slot). You can join the [discord
-server](https://discord.gg/EX57xnF) if you want to chat with the Super
+server](https://discord.gg/UDu5ztY) if you want to chat with the Super
 Nt community.
 
 Use at your own discretion. We are not responsible for any damage 

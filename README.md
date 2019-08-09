@@ -13,12 +13,12 @@ supported). In Windows, you must use a tool for cards larger than
 32GB, such as
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
-Place the firmware file
-[snt_firmware_verJB6.6.bin](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.6/snt_firmware_verJB6.6.bin)
+Unzip
+[snt_firmware_verJB6.9.zip](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.6/snt_firmware_verJB6.9.zip)
 into the root directory of your SD card.  Be sure that there is only
 one firmware file there.  Insert the card into your Super Nt and power
-on. The firmware will be flashed to the console. This process may
-take a few minutes.
+on. The firmware will be flashed to the console. This process may take
+a few minutes.
 
 While the firmware is flashing the LED will turn red and flicker,
 followed by a considerable pause and HDMI signal blackout.  Do not
@@ -178,6 +178,26 @@ on the Super NT itself.
 </details>
 
 ## Changelog
+- [JB6.9](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.6/snt_firmware_verJB6.9.zip) 2019-08-09:
+  - includes all fixes from official firmware v4.9:
+    - Added user font loading
+    - Added RGB sliders for standby colour
+    - Added SPC player
+    - Fixed top missing scanline
+    - Added new scanline system
+    - Added DAC
+    - Added light gun support with DAC
+    - L/R audio input on cartridge was flipped
+    - Fixed "you cannot use a mouse with this game" on Panic Bomber World
+    - Fixed Star Wars pausing bug
+    - Many small fixes and changes
+  - plus:
+    - Added DSP1,2,3,4 support
+    - Added OBC1 support
+    - Added ST010, ST011 support
+    - Added CX4 support
+    - Sped up file loading
+  
 - [JB6.6](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.6/snt_firmware_verJB6.6.bin) 2018-03-27:
   - includes all fixes from official firmware v4.5,
   - fixed: *Star Ocean* 96mbit works now.

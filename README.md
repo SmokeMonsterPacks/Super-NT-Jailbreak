@@ -178,7 +178,7 @@ on the Super NT itself.
 </details>
 
 ## Changelog
-- [JB6.9](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.6/snt_firmware_verJB6.9.zip) 2019-08-09:
+- [JB6.9](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/raw/master/firmware/snt_firmware_verJB6.9.zip) 2019-08-09:
   - includes all fixes from official firmware v4.9:
     - Added user font loading
     - Added RGB sliders for standby colour

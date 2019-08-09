@@ -14,7 +14,7 @@ supported). In Windows, you must use a tool for cards larger than
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
 Unzip
-[snt_firmware_verJB6.9.zip](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/releases/download/v6.6/snt_firmware_verJB6.9.zip)
+[snt_firmware_verJB6.9.zip](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/raw/master/firmware/snt_firmware_verJB6.9.zip)
 into the root directory of your SD card.  Be sure that there is only
 one firmware file there.  Insert the card into your Super Nt and power
 on. The firmware will be flashed to the console. This process may take

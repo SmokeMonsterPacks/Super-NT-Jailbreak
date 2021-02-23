@@ -14,7 +14,7 @@ supported). In Windows, you must use a tool for cards larger than
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
 Unzip
-[snt_firmware_verJB6.9.zip](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/raw/master/firmware/snt_firmware_verJB6.9.zip)
+[snt_firmware_verJB7.0zip](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/blob/master/firmware/snt_firmware_verJB7.0.zip)
 into the root directory of your SD card.  Be sure that there is only
 one firmware file there.  Insert the card into your Super Nt and power
 on. The firmware will be flashed to the console. This process may take
@@ -182,6 +182,18 @@ on the Super NT itself.
 Since Super NT firmware version JB6.9, the **System -> Font** menu allows you to select your own font in place of those which come with the console. The load font option will bring you to the file browser. If you have a directory called `/FONT/` at the root of your SD card, it will default to that directory to load a font file. The font must use an 8x8 text box and must be represented in binary in a 1-bit per pixel format. Each character will take eight bytes to represent in this format. The file must be 768 or 1024 bytes in size and use the extension .fnt. The characters in the file will have to start at ASCII 20 (space) and end at ASCII 7F (delete). Font files 1024 bytes in size will not show the first 32 characters which would be stored in the first 256 bytes of that file. A set of user-created fonts compiled by [Sho](https://archive.org/details/@zreport) is available [here](https://archive.org/details/shos-font-pack-v-3). Utilities to convert Analogue font files to/from bitmap files are available [here](https://archive.org/details/analogue-font-utilities).
 
 ## Changelog
+- [JB7.0] (https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/blob/master/firmware/snt_firmware_verJB7.0.zip) 2020-02-22:
+ - Added SPD HDMI packet to identify as "Super Nt"
+ - Added Dejitter checkbox added to suppress the shorter scanline every other frame
+ - Added option to press start to skip the bootup sequence
+ - Fixed video settings (scanlines, etc) not applying when running games
+ - Fixed non-visble top scanline in HDMI
+ - Fixed non-centered picture when horizontal/vertical position sliders are centered
+ - Fixed Final Fantasy III (US)/Final Fantasy VI (Japan) graphics corruption bug
+ - Fixed Final Fantasy V graphics bug
+ - Fixed Bahamut Lagoon graphics bug
+ - Fixed CX4 shifter for faster wireframe sequences in Mega Man X2 & X3
+
 - [JB6.9](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/raw/master/firmware/snt_firmware_verJB6.9.zip) 2019-08-09:
   - includes all fixes from official firmware v4.9:
     - Added user font loading

@@ -182,7 +182,7 @@ on the Super NT itself.
 Since Super NT firmware version JB6.9, the **System -> Font** menu allows you to select your own font in place of those which come with the console. The load font option will bring you to the file browser. If you have a directory called `/FONT/` at the root of your SD card, it will default to that directory to load a font file. The font must use an 8x8 text box and must be represented in binary in a 1-bit per pixel format. Each character will take eight bytes to represent in this format. The file must be 768 or 1024 bytes in size and use the extension .fnt. The characters in the file will have to start at ASCII 20 (space) and end at ASCII 7F (delete). Font files 1024 bytes in size will not show the first 32 characters which would be stored in the first 256 bytes of that file. A set of user-created fonts compiled by [Sho](https://archive.org/details/@zreport) is available [here](https://archive.org/details/shos-font-pack-v-3). Utilities to convert Analogue font files to/from bitmap files are available [here](https://archive.org/details/analogue-font-utilities).
 
 ## Changelog
-- [JB7.0](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/blob/master/firmware/snt_firmware_verJB7.0.zip) 2020-02-22:
+- [JB7.0](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/blob/master/firmware/snt_firmware_verJB7.0.zip) 2021-02-22:
  - Added SPD HDMI packet to identify as "Super Nt"
  - Added Dejitter checkbox added to suppress the shorter scanline every other frame
  - Added option to press start to skip the bootup sequence

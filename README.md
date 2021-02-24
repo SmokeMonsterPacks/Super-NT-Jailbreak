@@ -187,7 +187,7 @@ Since Super NT firmware version JB6.9, the **System -> Font** menu allows you to
  - Added Dejitter checkbox added to suppress the shorter scanline every other frame
  - Added option to press start to skip the bootup sequence
  - Fixed video settings (scanlines, etc) not applying when running games
- - Fixed non-visble top scanline in HDMI
+ - Fixed non-visible top scanline in HDMI
  - Fixed non-centered picture when horizontal/vertical position sliders are centered
  - Fixed Final Fantasy III (US)/Final Fantasy VI (Japan) graphics corruption bug
  - Fixed Final Fantasy V graphics bug

@@ -183,16 +183,16 @@ Since Super NT firmware version JB6.9, the **System -> Font** menu allows you to
 
 ## Changelog
 - [JB7.0](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/blob/master/firmware/snt_firmware_verJB7.0.zip) 2021-02-22:
- - Added SPD HDMI packet to identify as "Super Nt"
- - Added Dejitter checkbox added to suppress the shorter scanline every other frame
- - Added option to press start to skip the bootup sequence
- - Fixed video settings (scanlines, etc) not applying when running games
- - Fixed non-visible top scanline in HDMI
- - Fixed non-centered picture when horizontal/vertical position sliders are centered
- - Fixed Final Fantasy III (US)/Final Fantasy VI (Japan) graphics corruption bug
- - Fixed Final Fantasy V graphics bug
- - Fixed Bahamut Lagoon graphics bug
- - Fixed CX4 shifter for faster wireframe sequences in Mega Man X2 & X3
+  - Added SPD HDMI packet to identify as "Super Nt"
+  - Added Dejitter checkbox added to suppress the shorter scanline every other frame
+  - Added option to press start to skip the bootup sequence
+  - Fixed video settings (scanlines, etc) not applying when running games
+  - Fixed non-visible top scanline in HDMI
+  - Fixed non-centered picture when horizontal/vertical position sliders are centered
+  - Fixed Final Fantasy III (US)/Final Fantasy VI (Japan) graphics corruption bug
+  - Fixed Final Fantasy V graphics bug
+  - Fixed Bahamut Lagoon graphics bug
+  - Fixed CX4 shifter for faster wireframe sequences in Mega Man X2 & X3
 
 - [JB6.9](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/raw/master/firmware/snt_firmware_verJB6.9.zip) 2019-08-09:
   - includes all fixes from official firmware v4.9:

@@ -71,7 +71,10 @@ on. Doing so may risk damaging the console and/or losing saves. It is
 good practice to backup saves before updating firmware.
 
 When a game is exited to the menu, it will prompt you to save. Return to
-the file menu and save your progress before powering down.
+the file menu and save your progress before powering down. NOTE: The
+prompt to save is turned off by default, to enable it, open the menu 
+(`SELECT` and `DOWN`), then navigate to `MENU` (`START`), then `SYSTEM`, 
+then `MENU OPTIONS`. Make sure `PROMPT WHEN SAVING RAM` is selected.
 
 ## CopySNES
 

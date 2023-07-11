@@ -1,5 +1,7 @@
 # Super Nt Jailbreak
 
+**NOTE: the latest Jailbreak firmware can now be found at the [analoguejb](https://github.com/analoguejb/Analogue-Super-Nt-JB) GitHub page. If you have any issues, old or new, please open a ticket there.**
+
 Custom "*Jailbreak*" firmware for the [Analogue Super
 Nt](https://www.analogue.co/pages/super-nt/) (regular and *ghostly*
 models) that allows loading ROMs from the SD Card slot and an expanded

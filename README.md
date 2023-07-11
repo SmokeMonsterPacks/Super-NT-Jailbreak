@@ -3,7 +3,7 @@
 **NOTE: the latest Jailbreak firmware can now be found at the [analoguejb](https://github.com/analoguejb/Analogue-Super-Nt-JB) GitHub page. If you have any issues, old or new, please open a ticket there.**
 
 Custom "*Jailbreak*" firmware for the [Analogue Super
-Nt](https://www.analogue.co/pages/super-nt/) (regular and *ghostly*
+Nt](https://www.analogue.co/super-nt) (regular and *ghostly*
 models) that allows loading ROMs from the SD Card slot and an expanded
 featureset.
 
@@ -16,7 +16,7 @@ supported). In Windows, you must use a tool for cards larger than
 [fat32format](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm).
 
 Unzip
-[snt_firmware_verJB7.0zip](https://raw.githubusercontent.com/SmokeMonsterPacks/Super-NT-Jailbreak/master/firmware/snt_firmware_verJB7.0.zip)
+[snt_firmware_verJB7.2.zip](https://github.com/analoguejb/Analogue-Super-Nt-JB/releases/download/v7.2/snt_firmware_verJB7.2.zip)
 into the root directory of your SD card.  Be sure that there is only
 one firmware file there.  Insert the card into your Super Nt and power
 on. The firmware will be flashed to the console. This process may take
@@ -207,6 +207,33 @@ Since Super NT firmware version JB6.9, the **System -> Font** menu allows you to
 The SPC Player can play regular `.spc` files and `.sp2` files. Place these files in a directory called `/SPC/` at the root of your SD card.
 
 ## Changelog
+
+- [JB7.2](https://github.com/analoguejb/Analogue-Super-Nt-JB/releases/download/v7.2/snt_firmware_verJB7.2.zip) 2023-07-11:
+  - Now supports all hardware versions.
+  - Fixed screen tearing when using fully buffer mode.
+  - Fixed spaces in menus so they are highlighted now for consistency.
+  - Fixed Game Genie: turn on "launch system timing" in hardware menu.
+  - Fixed SNES Powerpak: turn on "launch system timing" in hardware menu.
+  - Fixed Hori SGB Commander issue.
+  - Fixed R-type 3/Super R-type issue.
+  - Fixed Wing Commander drum sound.
+  - Fixed Romancing SaGa 3 battle sound.
+  - Fixed Final Fantasy 2/4 final boss sound.
+  - Fixed Chrono Trigger final boss sound.
+  - Fixed Harukanaru Augusta 3 graphics issue.
+  - Fixed Power Soukoban graphics issue.
+  - Fixed Mega Lo Mania shield graphic.
+  - Fixed save-game loading for Slayers.
+  - Fixed 72hr Kaizo audio bug - enable SPC RAM startup state in the hardware menu.
+  - Fixed certain recent homebrew/official reproduction cartridges, like Wild Guns and Cotton 100% not booting.
+  - Reload Save RAM added to the tools menu - Saves can now be reloaded onto cartridges from a file.
+  - Fixed Copysnes save RAM reading bugs.
+  - Fixed Copysnes SDD-1 detection.
+  - Fixed Fire Emblem 5 patch issue.
+  - Fixed Rockman X2 speed issue.
+  - Fixed when exiting SPC player in 720p no longer resulting in 120Hz video.
+  - Fixed SPC LED color.
+
 - [JB7.0](https://github.com/SmokeMonsterPacks/Super-NT-Jailbreak/blob/master/firmware/snt_firmware_verJB7.0.zip) 2021-02-22:
   - Added SPD HDMI packet to identify as "Super Nt"
   - Added Dejitter checkbox added to suppress the shorter scanline every other frame

@@ -313,14 +313,6 @@ The SPC Player can play regular `.spc` files and `.sp2` files. Place these files
 
 ## Problem Reporting and Community Chat
 
-The custom firmware is not coded by
-[SmokeMonsterPacks](https://github.com/SmokeMonsterPacks) or
-[frederic-mahe](https://github.com/frederic-mahe), but please do
-report problems here at Github for support. Priority will be given to
-jailbreak-specific problems (using ROMs through the SD card slot
-rather than through the cartridge slot). You can join the [discord
-server](https://discord.gg/aCcDhVtmYg) if you want to chat with the Super
-Nt community.
+The custom firmware is not coded by [SmokeMonsterPacks](https://github.com/SmokeMonsterPacks) or [frederic-mahe](https://github.com/frederic-mahe), but please do report problems [there](https://github.com/analoguejb/Analogue-Super-Nt-JB) at [analoguejb](https://github.com/analoguejb) for support. You can join the [discord server](https://discord.gg/aCcDhVtmYg) if you want to chat with the Super Nt community.
 
-Use at your own discretion. We are not responsible for any damage 
-or data loss caused by custom firmware installation or use.
+Use at your own discretion. We are not responsible for any damage or data loss caused by custom firmware installation or use.
